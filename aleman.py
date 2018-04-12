@@ -1,4 +1,7 @@
 def saludar():
-    print("Halo welt!")
+    print("Hallo ihr lieven")
+    print("Hallo Leute!")
+    print("Hallo an alle!")
+    print("Hallo zusamen")
     return
 saludar()
